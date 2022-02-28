@@ -1,0 +1,22 @@
+
+public class mathclass {
+//finding a hypotenuse of a triangle
+	
+	public static void main(String[] args) {
+		
+		double x = 3.14;
+		double y = 10;
+		
+		double z = Math.round(x);
+
+		/*Math.max compares which number is higher and min the smallest.
+		abs takes away the minus before a number for example -10 will be 10
+		sqrt = square root
+	
+		
+		*/
+		System.out.println(z);
+		
+	}
+
+}

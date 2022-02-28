@@ -1,0 +1,23 @@
+import java.util.Random;
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Random random = new Random();
+		
+	int age = 18;
+	
+	if(age>=18) {
+		System.out.println("Adult");
+	}
+	
+	else if(age>=70) {
+		System.out.println("damn");
+	}
+	else {
+		System.out.println("Get out dude");
+	}
+		
+	}
+
+}

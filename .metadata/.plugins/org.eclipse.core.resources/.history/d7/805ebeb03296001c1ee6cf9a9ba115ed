@@ -1,0 +1,16 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int x = 130;
+		double y = 3.14;
+		char symbol = '@';
+		String name = "Bro"
+		
+		System.out.println(name);
+		
+		
+	}
+
+}

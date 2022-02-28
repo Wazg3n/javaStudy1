@@ -1,0 +1,22 @@
+
+public class Ifstatement {
+
+	public static void main(String[] args) {
+		
+		int age = 70;
+		
+		if(age>=18) {
+			
+			System.out.println("you good");
+			
+		}
+		else if(age>=70) {
+			System.out.println("old lad");
+		}
+		else {
+			System.out.println("get outa here");
+		}
+
+	}
+
+}

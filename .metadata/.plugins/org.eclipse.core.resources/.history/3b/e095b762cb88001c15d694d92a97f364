@@ -1,0 +1,22 @@
+
+public class Java {
+	private String vorname;
+	private String geschlecht;
+	private String geburtsdatum;
+	protected doublemindestbestellwert;
+	private Warenkorb warenkorb;
+	public String toString() {
+	return"Kunden-Objekt enthält folgende Daten: " + "\n" +
+	"Vorname: " + vorname + "\n" +
+	"Nachname: " + name + "\n" +
+	"Geschlecht: " + geschlecht + "\n" +
+	"Geburtsdatum: " + geburtsdatum;
+	}
+	}
+	public class OnlineShop {
+	public static void main_(String[] args){
+	Object o = new Kunde ("Ralf", "Herrmann", "m", "15.05.1978",
+	new Warenkorb());
+	System.out.println(o.toString());
+	}
+	}

@@ -1,0 +1,18 @@
+
+public class mathclass {
+//finding a hypotenuse of a triangle
+	
+	public static void main(String[] args) {
+		
+		double x = 3.14;
+		double y = -10;
+		
+		double z = Math.abs(y);
+
+		//Math.max compares which number is higher and min the smallest
+		
+		System.out.println(z);
+		
+	}
+
+}

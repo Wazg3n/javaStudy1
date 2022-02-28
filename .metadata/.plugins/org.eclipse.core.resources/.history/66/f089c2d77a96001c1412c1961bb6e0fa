@@ -1,0 +1,17 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		String x = "soda";
+		String y = "food";
+		
+		System.out.println(x + y);
+		
+		
+		
+		
+		
+	}
+
+}
