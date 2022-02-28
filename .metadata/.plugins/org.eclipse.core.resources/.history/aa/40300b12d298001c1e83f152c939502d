@@ -9,7 +9,6 @@ public class ForLoop {
 			System.out.println(i);
 		}
 		
-		System.out.println("yay");
 	}
 
 }
