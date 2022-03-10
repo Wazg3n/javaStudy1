@@ -9,4 +9,6 @@
     <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="package1.A"/>
+    <fullyQualifiedTypeName name="package2.C"/>
 </qualifiedTypeNameHistroy>
