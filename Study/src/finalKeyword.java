@@ -9,9 +9,9 @@ public class finalKeyword {
 		
 		final double  PI = 3.14159;
 		
-		pi = 4;
+		//pi = 4;
 		
-		System.out.println(pi);
+		System.out.println(PI);
 
 	}
 
